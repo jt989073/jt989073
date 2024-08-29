@@ -17,7 +17,6 @@ I'm James Thompson, a passionate Software Engineer with a strong focus on develo
 - 🎓 **Education**: Pursuing a Bachelor of Science in Software Engineering from Western Governors University.
 - 🧑‍🏫 **Current Role**: Instructor at App Academy, where I contribute to curriculum development and mentor aspiring developers.
 - 💻 **Skills**: Full-stack development, cloud services, open-source contributions, and more.
-- 🌱 **Interests**: Alternative energy industry and community-driven projects.
 
 ---
 
