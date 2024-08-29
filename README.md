@@ -57,7 +57,7 @@ I'm James Thompson, a passionate Software Engineer with a strong focus on develo
 </p>
 
 ---
-
+<!--
 ### 🚀 Projects
 
 Here are some of the projects I've worked on:
@@ -78,6 +78,7 @@ Here are some of the projects I've worked on:
 - **Features**: Responsive design, animations, and SEO optimization.
 
 ---
+-->
 
 ### 📫 How to Reach Me
 
