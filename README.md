@@ -83,8 +83,8 @@ Here are some of the projects I've worked on:
 
 I'm always open to discussing new opportunities, collaboration, or anything tech-related! You can reach me via:
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [james@automatamind.com](mailto:james@automatamind.com)
 - 💼 LinkedIn: [James Thompson](https://www.linkedin.com/in/your-linkedin-profile)
-- 🌐 Portfolio: [james-thompson.com](https://james-thompson.com)
+- 🌐 AutomataMind: [automatamind.com](https://automatamind.com)
 
 Thank you for visiting my GitHub portfolio! Feel free to explore my repositories and connect with me.
